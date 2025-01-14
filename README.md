@@ -1,0 +1,2 @@
+# SIEM-Real-Time-Cyber-Attack-Detection-and-Geolocation-Mapping-Azure-Sentinel-PowerShell
+This project uses Microsoft Azure Sentinel to detect and visualize RDP brute-force attacks in real time. Metadata from Windows Event Viewer is enriched with geolocation data and displayed on an attack map, providing insights into global threats. Over 12,000 attacks from 10 locations were recorded in 24 hours.
