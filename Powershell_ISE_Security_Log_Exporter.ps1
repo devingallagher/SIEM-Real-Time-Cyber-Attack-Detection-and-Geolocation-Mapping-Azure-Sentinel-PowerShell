@@ -1,4 +1,4 @@
-$API_KEY      = "7fdfa012149b41b8b59c20b0399a80b5"
+$API_KEY      = "MY API KEY THAT I CAN'T PUT"
 $LOGFILE_NAME = "failed_rdp.log"
 $LOGFILE_PATH = "C:\ProgramData\$($LOGFILE_NAME)"
 
